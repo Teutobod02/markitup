@@ -318,3 +318,5 @@ Im Rahmen der REDAXO-Doku wird das markdown für Zitate auch für Hinweise empfo
 
 
 &uarr; [zurück zur Übersicht](#top)
+
+Liebe Kinder, [bitte nicht nachmachen](https://www.youtube.com/watch?v=VBXKoZQwv)
